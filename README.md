@@ -43,13 +43,15 @@ Technologies Used: Python
 
 GitHub Repository: [Link to Repo]
 
-[Project Name 3]
+**3.Logistic Regression**
 
-Description: A brief overview of the project and its objectives.
+Description: A logistic regression model was applied to the Indian Liver Patient Dataset (ILPD) to predict liver disease, achieving an accuracy of 76% using Python libraries. The implementation involved preprocessing steps such as encoding categorical variables and scaling numerical features. The model's performance demonstrates its potential as a diagnostic tool for liver disease, particularly in resource-constrained settings
 
-Technologies Used: Python, Pandas, Matplotlib
+Technologies Used: Python, Pandas, Matplotlib, Sklearn,Seaborn
 
-GitHub Repository: [Link to Repo]
+GitHub Repository: https://github.com/jeevithasandeep/Logistic-Regression-on-Indian-liver-patient-dataset.git
+
+
 
 **🌟 Contact Me**
 I'm always open to collaborating on exciting projects or discussing data science. Feel free to reach out to me:
