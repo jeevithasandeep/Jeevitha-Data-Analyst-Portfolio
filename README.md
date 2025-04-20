@@ -33,7 +33,7 @@ Description:Exploratory Data Analysis (EDA) on IPL Dataset is a comprehensive pr
 
 Technologies Used: Python 
 
-GitHub Repository: [Link to Repo]
+GitHub Repository: https://github.com/jeevithasandeep/EDA-on-IPL-Dataset.git
 
 **2.Sales Analysis**
 
